@@ -1,0 +1,3 @@
+This folder contains two files. 
+And they realized the Jacobi iteration method and Gauss-Seidel iteration method in matrix iteration algorithm with Python.
+continuous updating...
